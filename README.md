@@ -1,5 +1,5 @@
 # hello-world-
 Just another repository
 
-Hi humans!
+Hi humans!\n
 直接编辑
